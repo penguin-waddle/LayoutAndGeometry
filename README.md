@@ -1,7 +1,16 @@
 # Layout and Geometry
 
 ## Overview
-Layout and Geometry is a SwiftUI project focused on exploring advanced layout alignments and creating special effects using `GeometryReader`. The project is part of the "100 Days of SwiftUI" course, emphasizing learning through hands-on practice.
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/penguin-waddle/LayoutAndGeometry/assets/123434744/e699b6ae-d5e0-4789-99ff-f7c66246dc92" alt="Layout And Geometry App Demo" width="300" />
+    </td>
+    <td>
+      Layout and Geometry is a SwiftUI project focused on exploring advanced layout alignments and creating special effects using `GeometryReader`. The project is part of the "100 Days of SwiftUI" course, emphasizing learning through hands-on practice.
+    </td>
+  </tr>
+</table>
 
 ## Features
 - **Dynamic Color and Opacity**: Each row in the scroll view dynamically changes color and opacity based on its vertical position on the screen.
@@ -32,3 +41,5 @@ Layout and Geometry is a SwiftUI project focused on exploring advanced layout al
 *This project is a practical exercise from the "100 Days of SwiftUI" course, demonstrating the application of SwiftUI's `GeometryReader` and advanced layout techniques.*
 
 ---
+
+[Back to Main Repository](https://github.com/penguin-waddle/100-Days-of-SwiftUI)
