@@ -4,7 +4,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github.com/penguin-waddle/LayoutAndGeometry/assets/123434744/e699b6ae-d5e0-4789-99ff-f7c66246dc92" alt="Layout And Geometry App Demo" width="300" />
+      <img src="https://github.com/penguin-waddle/LayoutAndGeometry/assets/123434744/e699b6ae-d5e0-4789-99ff-f7c66246dc92" alt="Layout And Geometry App Demo" width="2100" />
     </td>
     <td>
       Layout and Geometry is a SwiftUI project focused on exploring advanced layout alignments and creating special effects using `GeometryReader`. The project is part of the "100 Days of SwiftUI" course, emphasizing learning through hands-on practice.
